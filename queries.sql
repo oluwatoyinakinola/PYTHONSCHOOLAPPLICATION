@@ -1,0 +1,1 @@
+-- SQL queries for creating and managing database tables
